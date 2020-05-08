@@ -1,4 +1,4 @@
-
+`timescale 1ns / 1ps
 module doitgen(
     input [0:31] A,
     input [0:31] X,
